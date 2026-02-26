@@ -9,3 +9,5 @@ BEFORE YOU EXECUTE THIS IN SSMS, PLEASE NOTE: There is an order of execution for
 4. UniversitySQLQuerySelects
 
 The Diagram:
+
+<img width="1279" height="793" alt="image" src="https://github.com/user-attachments/assets/710d0421-81b9-4ace-8cbc-08e0b8c7e7c9" />
