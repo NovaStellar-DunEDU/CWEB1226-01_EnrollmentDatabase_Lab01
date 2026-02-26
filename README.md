@@ -10,9 +10,9 @@ DISCLAIMERS:
 
 BEFORE YOU EXECUTE THIS IN SSMS, PLEASE NOTE: There is an order of execution for each .sql file. Please follow it as exactly said.
 1. UniversitySQLQueryStart
-2. UniversitySQLQuery
-3. UniversitySQLQueryInserts
-4. UniversitySQLQuerySelects
+2. UniversitySQLQuery (DDL)
+3. UniversitySQLQueryInserts (DML)
+4. UniversitySQLQuerySelects (DQL)
 
 THIS IS NOT A REAL UNIVERSITY, IT JUST HAS FAKE AND HAND-MADE DATA AS A PLACEHOLDER, AND ONLY SERVES TO SHOW AN EXAMPLE FOR WHAT A UNIVERSITY'S DATA INFRASTRUCTURE COULD LOOK LIKE.
 
